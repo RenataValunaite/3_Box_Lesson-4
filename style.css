@@ -4,10 +4,10 @@ header {
 
 header img {
   height: 80px;
+  padding: 0;
 }
 
 nav {
-  text-align: center;
   background-color: green;
   padding: 10px;
 }
@@ -34,10 +34,11 @@ section img {
 h2 {
   background-color: green;
   color: white;
-  margin-top: 10px;
+  padding: 10px;
+  margin-top: 0;
 }
 
 .grey-bloc h2 {
-  padding: 20px;
-  margin-top: 0;
+  padding: 10px;
+  margin-top: 15px;
 }
